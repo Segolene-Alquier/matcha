@@ -40,7 +40,7 @@
     "query-string": "^6.11.0",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.12.0",
     "react-easy-crop": "^1.17.1",
     "react-google-places-autocomplete": "^1.6.2",
